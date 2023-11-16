@@ -2,7 +2,7 @@
 
 Adds a Sinatra-inspired routing API on top of [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer).
 
-Supports iOS 4+ and OS X 10.7+
+Supports iOS 12+ and OS X 10.13+
 
 ## Installation
 
